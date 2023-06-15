@@ -2,7 +2,7 @@
  * Thanks to Justin Meiners and Ryan Pendleton
  * https://www.jmeiners.com/
  * https://www.ryanp.me/
- * https://www.jmeiners.com/lc3-vm/#memory-mapped-registers-block-81
+ * https://www.jmeiners.com/lc3-vm
  */
 #include "types.h"
 #include "memory.h"
